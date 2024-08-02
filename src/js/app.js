@@ -48,7 +48,7 @@ function render(variables = {}) {
               variables.linkedin
             }"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${
-              variables.linkedin
+              variables.instagram
             }"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
